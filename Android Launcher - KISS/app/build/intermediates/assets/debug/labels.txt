@@ -1,0 +1,7 @@
+car radio
+car stick shift
+dashboard
+floor mat
+headrest
+seats
+steering wheel

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="activity_setting">KISS beállításai</string>
+    <string name="alias_clock">óra,ébresztő,időzítő,stopperóra</string>
+    <string name="alias_contacts">névjegyek,emberek,kapcsolatok</string>
+    <string name="alias_mail">levelezés,email</string>
+    <string name="alias_market">áruház,üzlet,app központ</string>
+    <string name="alias_messaging">szöveges üzenet,üzenetírás,sms,mms,üzenés</string>
+    <string name="alias_phone">tárcsázás,hívás,telefon</string>
+    <string name="alias_web">internet,web,böngésző</string>
+    <string name="app_name">KISS indító</string>
+    <string name="application_not_found">Hopsz… nem sikerült elindítani az alkalmazást.</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"Válasszon színt"</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">"<ns1:g id="COLOR_INDEX">%1$d</ns1:g>. szín"</string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">"<ns1:g id="COLOR_INDEX">%1$d</ns1:g>. szín kiválasztva"</string>
+    <string name="contacts_name">Névjegyek</string>
+    <string name="enable_app">Újonnan telepített app-ok mutatása az előzmények között</string>
+    <string name="enable_phone">Bejövő hívások mutatása az előzmények között</string>
+    <string name="enable_sms">Bejövő SMS-ek mutatása az előzmények között</string>
+    <string name="excluded_app_list_added">App elrejtve. Ismét megjeleníthető a beállításokon keresztül</string>
+    <string name="excluded_app_list_erased">Az elrejtett alkalmazások listája törölve.</string>
+    <string name="favorites_erased">Kedvencek kitörölve.</string>
+    <string name="freeze_history_name">Előzmények megállítása</string>
+    <string name="freeze_history_warn">Biztosan meg szeretnéd állítani az előzményeket? Az előzményeid mostantól változatlanok maradnak.</string>
+    <string name="history_erased">Előzmények törölve.</string>
+    <string name="history_hide_desc">Előzmények és bevezető képernyő elrejtése</string>
+    <string name="history_hide_name">Egyszerüsített kezelőfelület</string>
+    <string name="history_onclick_name">Egyszerűsített kezelőfelület: Előzmények érintésre</string>
+    <string name="icons_hide_desc">Hasznos lehet lassabb eszközökön</string>
+    <string name="icons_hide_main">App ikonok elrejtése</string>
+    <string name="icons_pack_default_name">Rendszer ikonok</string>
+    <string name="icons_pack_name">Ikon témák (ADW.Launcher téma)</string>
+    <string name="items_title">%d elem</string>
+    <string name="keyboard_name">Billentyűzet mutatása induláskor</string>
+    <string name="main_clear">Kereső szöveg törlése</string>
+    <string name="main_kiss">Kedvencek és app lista megjelenítése</string>
+    <string name="main_kiss_back">Előzmények megjelenítése</string>
+    <string name="main_menu">Menü</string>
+    <string name="menu_app_details">App adatai</string>
+    <string name="menu_app_hibernate">Hibernálás</string>
+    <string name="menu_app_uninstall">Eltávolítás</string>
+    <string name="menu_contact_copy_phone">Telefonszám másolása</string>
+    <string name="menu_exclude">App kizárása a KISSből</string>
+    <string name="menu_favorites_add">Hozzáadás a kedvencekhez</string>
+    <string name="menu_phone_create">Névjegy létrehozása</string>
+    <string name="menu_remove">Törlés az előzményekből</string>
+    <string name="menu_settings">Eszköz beállításai</string>
+    <string name="menu_wallpaper">Háttérkép változtatása</string>
+    <string name="order_apps_name">App lista rendezése</string>
+    <string name="phone_name">Telefonszámok</string>
+    <string name="portrait_title">Mindig álló elrendezés</string>
+    <string name="removed_item">Törölve</string>
+    <string name="reset_excluded_apps_name">Láthatatlan app-ok visszaállítása</string>
+    <string name="reset_excluded_apps_warn">Biztos vagy benne, hogy visszaállítasz minden elrejtett app-ot?</string>
+    <string name="reset_favorites_name">Kedvenceid listájának törlése</string>
+    <string name="reset_favorites_warn">Tényleg törölni szeretnéd a kedvenceidet?</string>
+    <string name="reset_name">KISS előzmények törlése</string>
+    <string name="reset_warn">Tényleg törölni akarod az előzményeket?</string>
+    <string name="restart_desc">Megoldhatja a témákkal vagy az új, meg nem jelenő névjegyekkel való gondokat</string>
+    <string name="restart_name">KISS újraindítása</string>
+    <string name="restart_warn">Biztosan újraindítod a KISS indítót? Ha a KISS nem az alapértelmezett indító, akkor a KISS egyszerűen leáll.</string>
+    <string name="root_mode_desc">Ha elérhető, használja az app-ok hibernálásához</string>
+    <string name="root_mode_error">Nem sikerült root jogot szerezni.</string>
+    <string name="root_mode_name">Root mód</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="search_name">Web keresés</string>
+    <string name="settings_airplane">Repülőgép üzemmód</string>
+    <string name="settings_applications">Alkalmazások</string>
+    <string name="settings_battery">Akkumulátor</string>
+    <string name="settings_connectivity">Kapcsolódás</string>
+    <string name="settings_device_info">Eszköz-információk</string>
+    <string name="settings_name">Eszköz beállítások</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Beállítás: "</string>
+    <string name="settings_tethering">Tethering</string>
+    <string name="shortcut_added">Parancsikon hozzáadva.</string>
+    <string name="shortcuts_name">Parancs rövidítések</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme_name">Téma felület</string>
+    <string name="title_advanced">Haladó beállítások</string>
+    <string name="title_history">Előzmények</string>
+    <string name="title_providers">Források beállításai</string>
+    <string name="title_ui">Kezelőfelület</string>
+    <string name="toast_favorites_added">a(z) %s hozzáadva a kedvencekhez</string>
+    <string name="toast_hibernate_completed">%s sikeresen hibernálva lett, a következő indításkor visszatér.</string>
+    <string name="toast_hibernate_error">%s hibernálása sikertelen volt.</string>
+    <string name="ui_empty_1">Keress rá bármire</string>
+    <string name="ui_empty_1_sub">App-ok, névjegyek, beállítások, …</string>
+    <string name="ui_empty_2">Mindig láthatod az előzményeidet</string>
+    <string name="ui_empty_2_sub">Gyorsan elérhető</string>
+    <string name="ui_empty_3">Gyors hozzáférés a gyakran használt app-okhoz</string>
+    <string name="ui_empty_3_sub">A KISS indító tanul a szokásaidból</string>
+    <string name="ui_excluded_apps">Láthatatlan app-ok megtekintése, szerkesztése</string>
+    <string name="ui_excluded_apps_dialog_title">Vedd le a kijelölést azokról az app-okról, amiket láthatóvá akarsz tenni</string>
+    <string name="ui_excluded_apps_not_found">Nincsenek láthatatlan app-ok</string>
+    <string name="ui_item_contact_hint_call">Hívás</string>
+    <string name="ui_item_contact_hint_message">Üzenet</string>
+    <string name="ui_item_phone">“%s” hívása</string>
+    <string name="ui_item_search">%1$s “%2$s” keresése</string>
+    <string name="ui_search_hint">App-ok, névjegyek, beállítások keresése, …</string>
+</resources>

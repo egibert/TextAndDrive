@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="activity_setting">KISS-inställningar</string>
+    <string name="alias_clock">klocka,alarm,timer,stoppur</string>
+    <string name="alias_contacts">kontakter, personer, relationer</string>
+    <string name="alias_mail">post,epost,e-post</string>
+    <string name="alias_market">marknad, butik, appcenter</string>
+    <string name="alias_messaging">Textmeddelande,skriv,SMS,MMS,meddelanden</string>
+    <string name="alias_phone">urtavla, samtal, telefon</string>
+    <string name="alias_web">internet,webben,webbläsare</string>
+    <string name="app_name">Kiss launcher</string>
+    <string name="application_not_found">Hoppsan… det gick inte att starta appen.</string>
+    <string name="contacts_name">Kontakter</string>
+    <string name="custom_search_provider">Lägg till sökleverantör</string>
+    <string name="favorites_erased">Favoriter raderade.</string>
+    <string name="freeze_history_name">Frys historik</string>
+    <string name="freeze_history_warn">Är du säker på att du vill frysa historiken och inaktivera alla ytterligare uppdateringar? Din historik kommer inte längre att förändras.</string>
+    <string name="history_erased">Historik raderad.</string>
+    <string name="history_hide_desc">Dölj historik och introskärm, aktivera widgets</string>
+    <string name="history_hide_name">Minimalistisk UI</string>
+    <string name="history_mode_desc">Välj hur historiken fylls</string>
+    <string name="history_mode_name">Historikläge</string>
+    <string name="history_onclick_name">Visa historik vid beröring</string>
+    <string name="icons_hide_desc">Användbar på långsamma enheter</string>
+    <string name="icons_hide_main">Dölj app-ikoner</string>
+    <string name="icons_pack_default_name">Systemikoner</string>
+    <string name="icons_pack_name">Tema-ikoner (ADW.Launcher tema)</string>
+    <string name="keyboard_name">Visa tangentbordet på start</string>
+    <string name="keyboard_workaround_desc">Förhindra trasiga mjuk-tangentbord (som SwiftKey™) från att visa förslag</string>
+    <string name="keyboard_workaround_name">Fix för tangentbordsförslag</string>
+    <string name="lwp_drag">Efterlikna draghändelse för bakgrundsbild</string>
+    <string name="lwp_drag_desc">Skicka flera beröringshändelser</string>
+    <string name="lwp_touch">Skicka touchhändelser till bakgrundsbilden</string>
+    <string name="main_clear">Rensa sökfältet</string>
+    <string name="main_kiss">Visa favoriter och applistan</string>
+    <string name="main_kiss_back">Visa historik</string>
+    <string name="main_menu">Meny</string>
+    <string name="menu_favorites_add">Lägg till i favoriter</string>
+    <string name="menu_settings">Enhetsinställningar</string>
+    <string name="menu_tags_edit">Lägga till eller redigera taggar</string>
+    <string name="menu_wallpaper">Uppdatera bakgrundsbild</string>
+    <string name="phone_name">Telefonnummer</string>
+    <string name="portrait_title">Tvinga porträttläge</string>
+    <string name="reset_excluded_apps_name">Återställ utesluten applista</string>
+    <string name="reset_excluded_apps_warn">Vill du verkligen återställa din lista för uteslutna appar?</string>
+    <string name="reset_favorites_name">Återställa din lista över favoriter</string>
+    <string name="reset_favorites_warn">Vill du verkligen återställa dina favoriter?</string>
+    <string name="reset_name">Återställ historik</string>
+    <string name="reset_warn">Vill du verkligen återställa din historik?</string>
+    <string name="root_mode_desc">Om tillgänglig, använda den till att hybernera appar</string>
+    <string name="root_mode_error">Misslyckades att få root-privilegier.</string>
+    <string name="root_mode_name">Root-läge</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="search_name">Webbsökning</string>
+    <string name="search_provider_added">Sökleverantören har lagts till.</string>
+    <string name="search_provider_deleted">Sökleverantören/erna raderades.</string>
+    <string name="search_provider_error_char">Vänligen använd inte tecknet |</string>
+    <string name="search_provider_error_exists">En leverantör med detta namn finns redan</string>
+    <string name="search_provider_error_placeholder">Vänligen använd {q} för sökningsplatshållaren</string>
+    <string name="search_provider_error_url">Vänligen använd en giltig webbadress</string>
+    <string name="search_provider_name">Leverantörsnamn</string>
+    <string name="search_provider_reset">Återställ sökleverantörer</string>
+    <string name="search_provider_reset_desc">Vill du återställa listan över sökleverantörer?</string>
+    <string name="search_provider_reset_done_desc">Sökleverantörerna har återställts</string>
+    <string name="search_providers_delete">Ta bort sökleverantörer</string>
+    <string name="search_providers_title">Välj webbsökningsleverantörer</string>
+    <string name="settings_accessibility">Tillgänglighet</string>
+    <string name="settings_airplane">Flygplansläge</string>
+    <string name="settings_applications">Appar</string>
+    <string name="settings_battery">Batteri</string>
+    <string name="settings_connectivity">Anslutning</string>
+    <string name="settings_dev">Utvecklarinställningar</string>
+    <string name="settings_device_info">Enhetsinformation</string>
+    <string name="settings_display">Bildskärm</string>
+    <string name="settings_name">Enhetsinställningar</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Inställning: "</string>
+    <string name="settings_sound">Ljud och volym</string>
+    <string name="settings_storage">Lagring</string>
+    <string name="settings_tethering">Internetdelning</string>
+    <string name="shortcuts_name">Genvägar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stub_app_tag">Tagg-exempel</string>
+    <string name="tags_add_title">Lägga till taggar avgränsade med blanksteg</string>
+    <string name="title_advanced">Avancerade Inställningar</string>
+    <string name="title_history">Historikinställningar</string>
+    <string name="title_providers">Leverantörsval</string>
+    <string name="title_ui">Användargränssnitt</string>
+    <string name="ui_empty_1">Börja leta efter någonting</string>
+    <string name="ui_empty_1_sub">Appar, kontakter, inställningar, …</string>
+    <string name="ui_empty_2">Se alltid din historik</string>
+    <string name="ui_empty_2_sub">För snabb åtkomst</string>
+    <string name="ui_empty_3">Snabb tillgång till mest använda appar</string>
+    <string name="ui_empty_3_sub">KISS-launcher lär från dina vanor</string>
+    <string name="ui_excluded_apps">Visa eller redigera dina uteslutna appar</string>
+    <string name="ui_excluded_apps_dialog_title">Avmarkera de appar som du vill inkludera</string>
+    <string name="ui_excluded_apps_not_found">Inga appar har uteslutits</string>
+    <string name="ui_item_contact_hint_call">Samtal</string>
+    <string name="ui_item_contact_hint_message">Meddelande</string>
+    <string name="ui_item_phone">Ring “%s”</string>
+    <string name="ui_item_search">"Sök i %1$s efter  “%2$s”"</string>
+    <string name="ui_item_visit">Besök “%1$s”</string>
+    <string name="ui_search_hint">Sök efter appar, kontakter…</string>
+    <string name="wp_drag_animate">Bläddra bakgrundsbild</string>
+    <string name="wp_drag_animate_desc">Dra vågrätt för att bläddra bakgrundsbild</string>
+</resources>

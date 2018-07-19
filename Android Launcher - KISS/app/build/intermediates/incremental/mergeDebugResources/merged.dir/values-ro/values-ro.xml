@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="historyModeEntries">
+        <item>Cele mai recente primele</item>
+        <item>Cele mai frecvent utilizate primele</item>
+    </string-array>
+    <string-array name="sortAppListEntries">
+        <item>De la A la Z</item>
+        <item>De la Z la A</item>
+    </string-array>
+    <string-array name="themesEntries">
+        <item>Tema deschisa (implicit)</item>
+        <item>Tema semi-transparenta</item>
+        <item>Tema transparenta</item>
+        <item>Tema intunecata</item>
+        <item>Tema intunecata semi-transparenta</item>
+        <item>Tema intunecata transparenta</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="activity_setting">Setări KISS</string>
+    <string name="alias_clock">ceas,alarma,timer,cronometru</string>
+    <string name="alias_contacts">contacte,persoane,relatii</string>
+    <string name="alias_mail">mail,email,posta</string>
+    <string name="alias_market">magazin,aplicatii</string>
+    <string name="alias_messaging">mesaj text,compune,SMS,MMS,mesagerie</string>
+    <string name="alias_phone">formeaza,suna,telefon</string>
+    <string name="alias_web">internet,web,browser,navigare</string>
+    <string name="alternate_history_inputs">Surse alternative istoric</string>
+    <string name="app_name">Lansator KISS</string>
+    <string name="application_not_found">Opa… nu am putut lansa acea aplicație.</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"Selectați o culoare"</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">Culoarea <ns1:g example="14" id="color_index">%1$d</ns1:g></string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">Culoarea <ns1:g example="14" id="color_index">%1$d</ns1:g> este selectată</string>
+    <string name="color_transparent">Transparent</string>
+    <string name="color_transparent_dark">Transparent întunecat</string>
+    <string name="color_transparent_white">Transparent alb</string>
+    <string name="contacts_name">Contacte</string>
+    <string name="custom_search_provider">Adaugă furnizor de căutare pe internet</string>
+    <string name="default_launcher_title">Schimbă lansatorul de aplicații implicit</string>
+    <string name="default_launcher_warn">După selectarea lansatorului implicit, veți ajunge la ecranul lui principal. Sigur doriți să continuați?
+\n
+\nNotă: Dacă nu vedeți opțiunea \"Întotdeauna\", apăsați butonul Acasă după selecția lansatorului dorit.</string>
+    <string name="enable_app">Adaugă aplicațiile noi instalate la istoric</string>
+    <string name="enable_favorites_bar">Arată favoritele deasupra barei de căutare</string>
+    <string name="enable_favorites_bar_summary_off">Arată favoritele doar atunci când se apasă iconița KISS</string>
+    <string name="enable_favorites_bar_summary_on">Arată favoritele deasupra barei de căutare</string>
+    <string name="enable_phone">Adaugă apelurile telefonice la istoric</string>
+    <string name="enable_sms">Arată mesajele SMS primite în istoric</string>
+    <string name="exclude_favorites">Exclude aplicațiile favorite din istoric</string>
+    <string name="excluded_app_list_added">Aplicație exclusă din KISS. Anulează asta în setările KISS</string>
+    <string name="excluded_app_list_erased">Lista de aplicații excluse a fost ștearsă.</string>
+    <string name="favorites_erased">Favorite șterse.</string>
+    <string name="favorites_hide">Ascunde bara de favorite</string>
+    <string name="freeze_history_name">Îngheață istoric</string>
+    <string name="freeze_history_summary">Păstrează istoric cum e acum până la debifare</string>
+    <string name="freeze_history_warn">Sigur vrei ca istoricul să înghețe și să dezactivezi actualizările ulterioare? Istoricul nu se va mai schimba.</string>
+    <string name="get_help">Cere ajutor!</string>
+    <string name="history_erased">Istoric șters.</string>
+    <string name="history_favorites_summary">Resetare favorite, eliminare bară favorite, …</string>
+    <string name="history_hide_desc">Ascunde istoricul, ecranul inițial, activează widget-uri</string>
+    <string name="history_hide_name">Interfață minimă</string>
+    <string name="history_mode_desc">Selectează modul în care este populat istoricul</string>
+    <string name="history_mode_name">Mod afișare istoric</string>
+    <string name="history_onclick_name">Arată istoric la atingere</string>
+    <string name="history_settings_summary">Resetează istoric, aplicații excluse, …</string>
+    <string name="icons_hide_desc">Util pentru dispozitivele mai slabe</string>
+    <string name="icons_hide_main">Ascunde iconițele aplicațiilor</string>
+    <string name="icons_pack_default_name">Iconițe din sistem</string>
+    <string name="icons_pack_name">Temă iconițe (tema ADW.Launcher)</string>
+    <string name="items_title">%d elemente</string>
+    <string name="keyboard_name">Arată tastatura la deschidere</string>
+    <string name="keyboard_options">Opțiuni tastatură</string>
+    <string name="keyboard_workaround_desc">Previne tastaturile problematice (precum SwiftKey™) să mai arate sugestii</string>
+    <string name="keyboard_workaround_name">Rezolvare sugestii tastatură</string>
+    <string name="large_search_bar">Bară de căutare mărită</string>
+    <string name="lwp_drag">Emulează evenimente ce afectează fundalul</string>
+    <string name="lwp_drag_desc">Trimite mai multe atingeri</string>
+    <string name="lwp_touch">Trimite atingerile la fundal</string>
+    <string name="main_clear">Curăță bara de căutare</string>
+    <string name="main_color">Culoare primară</string>
+    <string name="main_kiss">Arată favoritele și lista de aplicații</string>
+    <string name="main_kiss_back">Arată istoric</string>
+    <string name="main_menu">Meniu</string>
+    <string name="menu_app_details">Info aplicație</string>
+    <string name="menu_app_hibernate">Hibernare</string>
+    <string name="menu_app_uninstall">Dezinstalează</string>
+    <string name="menu_contact_copy_phone">Copiază număr de telefon</string>
+    <string name="menu_exclude">Exclude din lansator</string>
+    <string name="menu_favorites_add">Adaugă la favorite</string>
+    <string name="menu_favorites_remove">Elimină din favorite</string>
+    <string name="menu_phone_create">Creează contact</string>
+    <string name="menu_remove">Elimină din istoric</string>
+    <string name="menu_settings">Setări dispozitiv</string>
+    <string name="menu_shortcut_remove">Șterge scurtătura</string>
+    <string name="menu_tags_edit">Editare etichete</string>
+    <string name="menu_wallpaper">Actualizare imagine fundal</string>
+    <string name="menu_widget_add">(BETA) Adaugă widget</string>
+    <string name="menu_widget_remove">Elimină widget</string>
+    <string name="misc">Diverse</string>
+    <string name="notification_bar_color">Culoare bară notificare</string>
+    <string name="number_of_display_items">Numărul maxim de rezultate în căutare și istoric</string>
+    <string name="order_apps_name">Ordine sortare listă aplicații</string>
+    <string name="permission_denied">Permisiune refuzată</string>
+    <string name="phone_name">Numere de telefon</string>
+    <string name="portrait_title">Forțează modul portret</string>
+    <string name="pref_hide_navbar">"Ascunde bara de navigație "</string>
+    <string name="pref_hide_navbar_desc">Ascunde bara de navigație și activează modul imersiv pentru KitKat (4.4) sau mai nou</string>
+    <string name="pref_hide_statusbar">Ascunde bara de stare</string>
+    <string name="pref_hide_statusbar_desc">Ascunde bara de notificări și activează modul imersiv pe KitKat (4.4) sau mai nou</string>
+    <string name="providers_summary">Dezactivează furnizori, adaugă motoare de căutare personalizate, …</string>
+    <string name="rate_the_app">Evaluați aplicația</string>
+    <string name="removed_item">Eliminat</string>
+    <string name="reset_excluded_apps_name">Curăță lista de aplicații excluse</string>
+    <string name="reset_excluded_apps_warn">Chiar doriți curățarea listei de aplicații excluse?</string>
+    <string name="reset_favorites_name">Curăță lista de favorite</string>
+    <string name="reset_favorites_warn">Chiar doriți curățarea liste de favorite?</string>
+    <string name="reset_name">Curăță istoric</string>
+    <string name="reset_warn">Chiar doriți curățarea istoricului?</string>
+    <string name="restart_desc">Rezolvă problemele temei și contactele ce nu apar</string>
+    <string name="restart_name">Repornește KISS</string>
+    <string name="restart_warn">Sigur vrei să restartezi KISS? Atunci când nu este lansatorul implicit KISS doar se va opri.</string>
+    <string name="root_mode_desc">Dacă este disponibil va fi folosit pentru hibernarea aplicațiilor</string>
+    <string name="root_mode_error">Nu s-au putut primi privilegii root.</string>
+    <string name="root_mode_name">Mod root</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <string name="search_name">Căutare pe internet</string>
+    <string name="search_provider_added">Furnizorul de căutare a fost adăugat.</string>
+    <string name="search_provider_deleted">Furnizorul a fost șters.</string>
+    <string name="search_provider_error_char">Nu folosiți caracterul \"|\"</string>
+    <string name="search_provider_error_exists">Un furnizor cu acest nume există deja</string>
+    <string name="search_provider_error_placeholder">Folosiți {q} pentru șablonul de căutat</string>
+    <string name="search_provider_error_url">Folosiți o adresă valabilă</string>
+    <string name="search_provider_name">Nume furnizor</string>
+    <string name="search_provider_reset">Resetează furnizorii de căutare pe internet</string>
+    <string name="search_provider_reset_desc">Doriți să resetați lista de furnizori de căutare pe internet?</string>
+    <string name="search_provider_reset_done_desc">Lista furnizorilor de căutare pe internet a fost resetată</string>
+    <string name="search_providers_delete">Șterge furnizorii de căutări pe internet</string>
+    <string name="search_providers_title">Selectează furnizorii de căutări pe internet</string>
+    <string name="settings_accessibility">Accesibilitate</string>
+    <string name="settings_airplane">Mod avion</string>
+    <string name="settings_applications">Aplicații</string>
+    <string name="settings_battery">Baterie</string>
+    <string name="settings_connectivity">Conectivitate</string>
+    <string name="settings_dev">Optiuni dezvoltator</string>
+    <string name="settings_device_info">Informații dispozitiv</string>
+    <string name="settings_display">Afisare</string>
+    <string name="settings_name">Setări dispozitiv</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Setări: "</string>
+    <string name="settings_sound">Sunet si volum</string>
+    <string name="settings_storage">Stocare</string>
+    <string name="settings_tethering">Partajare conexiune</string>
+    <string name="share">Partajează cu…</string>
+    <string name="shortcut_added">Scurtătură adăugată la KISS.</string>
+    <string name="shortcuts_name">Scurtături</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="stub_app_tag">Exemplu etichetă</string>
+    <string name="tags_add_title">Adaugă etichete separate de spații</string>
+    <string name="tags_confirmation_added">Etichetă setată</string>
+    <string name="tags_visible">Arată etichete aplicații</string>
+    <string name="theme_name">Temă interfață</string>
+    <string name="title_advanced">Setări avansate</string>
+    <string name="title_favorites">Setări favorite</string>
+    <string name="title_history">Setări istoric</string>
+    <string name="title_providers">Selecție furnizori</string>
+    <string name="title_ui">Interfață</string>
+    <string name="title_ux">Interacțiune</string>
+    <string name="title_wallpaper">Interacțiuni cu fundaluri animate</string>
+    <string name="toast_favorites_added">%s a fost adăugat la favorite</string>
+    <string name="toast_favorites_removed">%s eliminat din favorite</string>
+    <string name="toast_hibernate_completed">%s hibernată, repornește-o pentru a o trezi.</string>
+    <string name="toast_hibernate_error">%s nu a fost hibernată.</string>
+    <string name="transparent_favorites_bar">Bară de favorite transparentă</string>
+    <string name="transparent_search_bar">Bară de căutare transparentă</string>
+    <string name="ui_empty_1">Pornește căutarea</string>
+    <string name="ui_empty_1_sub">Aplicații, contacte, setări…</string>
+    <string name="ui_empty_2">Arată mereu istoricul</string>
+    <string name="ui_empty_2_sub">Pentru acces rapid</string>
+    <string name="ui_empty_3">Acces rapid la aplicațiile folosite des</string>
+    <string name="ui_empty_3_sub">Lansatorul KISS învață din obiceiurile tale</string>
+    <string name="ui_excluded_apps">Vizualizează sau editează aplicațiile excluse</string>
+    <string name="ui_excluded_apps_dialog_title">Deselectează aplicațiile pe care vrei să le incluzi</string>
+    <string name="ui_excluded_apps_not_found">Nici o aplicație nu a fost exclusă</string>
+    <string name="ui_item_contact_hint_call">Sună</string>
+    <string name="ui_item_contact_hint_message">Mesaj</string>
+    <string name="ui_item_phone">Sună \"%s\"</string>
+    <string name="ui_item_search">%1$s Caută \"%2$s\"</string>
+    <string name="ui_item_visit">Vizitează “%1$s”</string>
+    <string name="ui_search_hint">Caută aplicații, contacte…</string>
+    <string name="user_experience_summary">Interfață minimalistă, setări tastatură, …</string>
+    <string name="user_interface_summary">Teme, transparență și culori</string>
+    <string name="wp_drag_animate">Derulează fundalul</string>
+    <string name="wp_drag_animate_desc">Trage orizontal pentru a derula fundalul</string>
+</resources>

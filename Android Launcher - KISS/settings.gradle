@@ -1,0 +1,2 @@
+include ':app', ':usbSerialForAndroid', ':hiddencamera'
+project(':usbSerialForAndroid').projectDir = new File('usb-serial-for-android/usbSerialForAndroid')

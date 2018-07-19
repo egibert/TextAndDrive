@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="activity_setting">KISS postavke</string>
+    <string name="alias_clock">sat,alarm,mjerač vremena,štoperica</string>
+    <string name="alias_contacts">kontakti,osobe,odnosi</string>
+    <string name="alias_mail">pošta,e-pošta</string>
+    <string name="alias_market">trgovina,trgovina,centar za aplikacije</string>
+    <string name="alias_messaging">tekstualna poruka,sastavi,sms,mms,poruke</string>
+    <string name="alias_phone">biraj,poziv,telefon</string>
+    <string name="alias_web">internet,mreža,preglednik</string>
+    <string name="app_name">KISS launcher</string>
+    <string name="application_not_found">Ups… nije moguće pokrenuti tu aplikaciju.</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"Odabir boje"</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">"Boja <ns1:g id="COLOR_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">"Odabrana je boja <ns1:g id="COLOR_INDEX">%1$d</ns1:g>"</string>
+    <string name="contacts_name">Kontakti</string>
+    <string name="enable_app">Prikaži povijest novih aplikacija</string>
+    <string name="enable_favorites_bar">Prikaži favorite iznad polja za pretraživanje</string>
+    <string name="enable_phone">Prikaži povijest dolaznih poziva</string>
+    <string name="enable_sms">Prikaži povijest dolaznih SMS poruka</string>
+    <string name="exclude_favorites">Sakrij favorite iz povijesti</string>
+    <string name="excluded_app_list_added">Aplikacija skrivena. Vratite ju unutar KISS postavki</string>
+    <string name="excluded_app_list_erased">Lista skrivenih aplikacija obrisana.</string>
+    <string name="favorites_erased">Favoriti obrisani.</string>
+    <string name="favorites_hide">Sakrij polje favorita</string>
+    <string name="freeze_history_name">Zamrzni povijest</string>
+    <string name="freeze_history_warn">Jeste li sigurni da želite zamrznuti povijesti i isključiti buduće promjene? Vaša povijest se više neće mijenjati.</string>
+    <string name="history_erased">Povjest izbrisana.</string>
+    <string name="history_hide_desc">Sakrij povijest i uvodni sadržaj</string>
+    <string name="history_hide_name">Minimalističko sučelje</string>
+    <string name="history_mode_desc">Odaberi način spremanja povijesti</string>
+    <string name="history_mode_name">Način prikazivanja povijesti</string>
+    <string name="history_onclick_name">Prikaži povijest na dodir</string>
+    <string name="icons_hide_desc">Korisno na sporim uređajima</string>
+    <string name="icons_hide_main">Sakrij ikone aplikacija</string>
+    <string name="icons_pack_default_name">Sustavne ikone</string>
+    <string name="icons_pack_name">Ikone teme (ADW.Launcher)</string>
+    <string name="items_title">%d stavke</string>
+    <string name="keyboard_name">Pokaži tipkovnicu povratkom na glavni ekran</string>
+    <string name="keyboard_options">Postavke tipkovnice</string>
+    <string name="keyboard_workaround_desc">Onemogući tipkovnicama da pokazuju prijedloge</string>
+    <string name="keyboard_workaround_name">Zaobiđi prijedloge tipkovnice</string>
+    <string name="main_clear">Očisti tekst</string>
+    <string name="main_kiss">Pokaži favorite i listu aplikacija</string>
+    <string name="main_kiss_back">Pokaži povjest</string>
+    <string name="main_menu">Meni</string>
+    <string name="menu_app_details">Informacije o aplikaciji</string>
+    <string name="menu_app_hibernate">Hiberniraj</string>
+    <string name="menu_app_uninstall">Obriši aplikaciju</string>
+    <string name="menu_contact_copy_phone">Kopiraj telefonski broj</string>
+    <string name="menu_exclude">Sakrij aplikaciju</string>
+    <string name="menu_favorites_add">Dodaj u favorite</string>
+    <string name="menu_phone_create">Stvori kontakt</string>
+    <string name="menu_remove">Ukloni iz povijesti</string>
+    <string name="menu_settings">Postavke uređaja</string>
+    <string name="menu_shortcut_remove">Ukloni prečac</string>
+    <string name="menu_wallpaper">Postavi pozadinsku sliku</string>
+    <string name="misc">Ostalo</string>
+    <string name="order_apps_name">Sortiranje aplikacija</string>
+    <string name="phone_name">Brojevi telefona</string>
+    <string name="portrait_title">Prisili uspravni prikaz</string>
+    <string name="removed_item">Uklonjeno</string>
+    <string name="reset_excluded_apps_name">Očisti listu skrivenih aplikacija</string>
+    <string name="reset_excluded_apps_warn">Želite li obrisati listu skrivenih aplikacija?</string>
+    <string name="reset_favorites_name">Obriši favorite</string>
+    <string name="reset_favorites_warn">Želite li obrisati favorite?</string>
+    <string name="reset_name">Obriši povijest</string>
+    <string name="reset_warn">Želite li obrisati povijest?</string>
+    <string name="restart_desc">Popravi probleme teme / ne prikazivanje novih kontakata</string>
+    <string name="restart_name">Ponovo pokreni KISS</string>
+    <string name="restart_warn">Želite li ponovo pokrenuti KISS? Ako KISS nije vaš glavni pokretač aplikacija će se zatvoriti.</string>
+    <string name="root_mode_desc">Ako je omogućen koristite ga za hiberniranje aplikacija</string>
+    <string name="root_mode_error">Nemoguće dobiti root privilegije.</string>
+    <string name="root_mode_name">Root način rada</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string name="search_name">Pretraživanje interneta</string>
+    <string name="search_providers_title">Odaberi internet pretraživače</string>
+    <string name="settings_accessibility">Pristupačnost</string>
+    <string name="settings_airplane">Način rada u zrakoplovu</string>
+    <string name="settings_applications">Aplikacije</string>
+    <string name="settings_battery">Baterija</string>
+    <string name="settings_connectivity">Povezivanje</string>
+    <string name="settings_dev">Opcije razvoja</string>
+    <string name="settings_device_info">Informacije o uređaju</string>
+    <string name="settings_name">Postavke uređaja</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Postavka: "</string>
+    <string name="settings_storage">Pohrana podataka</string>
+    <string name="settings_tethering">Dijeljenje</string>
+    <string name="shortcut_added">Prečac dodan u KISS.</string>
+    <string name="shortcuts_name">Prečaci</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme_name">Tema</string>
+    <string name="title_advanced">Napredne postavke</string>
+    <string name="title_history">Postavke povijesti</string>
+    <string name="title_providers">Odaberi poslužitelja</string>
+    <string name="title_ui">Korisničko sučelje</string>
+    <string name="toast_favorites_added">%s dodan u favorite</string>
+    <string name="toast_hibernate_completed">%s uspješno hibernirana, za ponovo pokretanje otvorite aplikaciju.</string>
+    <string name="toast_hibernate_error">%s nije uspješno poslana na hibernaciju.</string>
+    <string name="ui_empty_1">Počnite pretraživati</string>
+    <string name="ui_empty_1_sub">Aplikacije, kontakti, postavke, …</string>
+    <string name="ui_empty_2">Uvijek prikaži povIjest pretraživanja</string>
+    <string name="ui_empty_2_sub">Za brži pristup</string>
+    <string name="ui_empty_3">Brzi pristup do najkorištenijih aplikacija</string>
+    <string name="ui_empty_3_sub">KISS uči iz vaših navika</string>
+    <string name="ui_excluded_apps">Prikaži / uredi skrivene aplikacije</string>
+    <string name="ui_excluded_apps_dialog_title">Odznačite aplikacije koje želite prikazati</string>
+    <string name="ui_excluded_apps_not_found">Nema skrivenih aplikacija</string>
+    <string name="ui_item_contact_hint_call">Poziv</string>
+    <string name="ui_item_contact_hint_message">Poruka</string>
+    <string name="ui_item_phone">Nazovi “%s”</string>
+    <string name="ui_item_search">%1$s Potraži “%2$s”</string>
+    <string name="ui_search_hint">Pretraži aplikacije, kontakte, …</string>
+</resources>

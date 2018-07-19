@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="activity_setting">Nastavení KISS</string>
+    <string name="app_name">KISS launcher</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"Vyberte barvu"</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">"Barva <ns1:g id="COLOR_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">"Barva <ns1:g id="COLOR_INDEX">%1$d</ns1:g> je vybrána"</string>
+    <string name="contacts_name">Kontakty</string>
+    <string name="main_clear">Vymazat text</string>
+    <string name="main_kiss_back">Zobrazit historii</string>
+    <string name="main_menu">Nabídka</string>
+    <string name="menu_app_uninstall">Odinstalovat</string>
+    <string name="menu_settings">Nastavení zařízení</string>
+    <string name="phone_name">Telefon</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="search_name">Vyhledávání Google</string>
+    <string name="settings_airplane">Režim letadlo</string>
+    <string name="settings_applications">Aplikace</string>
+    <string name="settings_battery">Baterie</string>
+    <string name="settings_connectivity">Připojení</string>
+    <string name="settings_device_info">Informace o zařízení</string>
+    <string name="settings_name">Nastavení</string>
+    <string name="settings_prefix">"Nastavení: "</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_history">Nastavení historie</string>
+    <string name="title_providers">Výběr poskytovatelů</string>
+    <string name="title_ui">Nastavení vzhledu</string>
+    <string name="ui_empty_1_sub">Aplikace, kontakty, nastavení</string>
+    <string name="ui_empty_2">Vždy zobrazovat historii.</string>
+    <string name="ui_empty_2_sub">Pro rychlý přístup</string>
+    <string name="ui_empty_3">Rychlý přístup k nejvíce používaným aplikacím</string>
+    <string name="ui_item_contact_hint_call">Hovor</string>
+    <string name="ui_item_contact_hint_message">Zpráva</string>
+    <string name="ui_item_phone">Hovor “%s”</string>
+    <string name="ui_item_search">%1$s Vyhledávat “%2$s”</string>
+    <string name="ui_search_hint">Vyhledávat aplikace, kontanty…</string>
+</resources>

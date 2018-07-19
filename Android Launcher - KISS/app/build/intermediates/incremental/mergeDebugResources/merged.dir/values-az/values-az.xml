@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Evə naviqasiya et"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuxarı get"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Digər variantlar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hazırdır"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Hamısına baxın"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Tətbiq seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEAKTİV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTİV"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Axtarış..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorğunu təmizlə"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Axtarış sorğusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Axtarış"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorğunu göndərin"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Səsli axtarış"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bununla paylaşın"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ilə paylaşın"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yığışdırın"</string>
+    <string name="activity_setting">KISS parametrləri</string>
+    <string name="alias_clock">saat,siqnalizasiya,taymer,saniyəölçən</string>
+    <string name="alias_contacts">kontaktlar,insanlar,münasibətlər</string>
+    <string name="alias_mail">poçt,e-poçt</string>
+    <string name="alias_market">bazar,mağaza,proqram mərkəzi</string>
+    <string name="alias_messaging">mesaj,yaz,sms,mms,mesajlaşma</string>
+    <string name="alias_phone">zəng,ara,telefon</string>
+    <string name="alias_web">internet,web,browser</string>
+    <string name="app_name">KISS başladıcı</string>
+    <string name="application_not_found">Oy… O proqramı başlatamadıq.</string>
+    <string name="contacts_name">Kontaktlar</string>
+    <string name="history_erased">Keçmiş silindi.</string>
+    <string name="history_hide_desc">Keçmişi və daxil ekranını gizlət</string>
+    <string name="history_hide_name">Minimalistik interfeys</string>
+    <string name="keyboard_name">Klaviaturanı göstər</string>
+    <string name="main_clear">Mətni sil</string>
+    <string name="main_kiss">Tez istifadə edilənləri və proqram siyahısını göstər</string>
+    <string name="main_kiss_back">Keçmişi göstər</string>
+    <string name="main_menu">Menyu</string>
+    <string name="menu_app_details">Proqram mǝlumatı</string>
+    <string name="menu_app_hibernate">Yuxu rejimi</string>
+    <string name="menu_app_uninstall">Yükləməyi qaldır</string>
+    <string name="menu_contact_copy_phone">Telefon nömrəsini kopyala</string>
+    <string name="menu_phone_create">Kontakt yarat</string>
+    <string name="menu_remove">Keçmişdən qaldır</string>
+    <string name="menu_settings">Cihaz Parametrləri</string>
+    <string name="menu_wallpaper">Divar kağızını dəyişdir</string>
+    <string name="order_apps_name">Proqram siyahı sırası</string>
+    <string name="phone_name">Telefon</string>
+    <string name="portrait_title">Dikey rejimi zorla</string>
+    <string name="removed_item">Qaldırıldı</string>
+    <string name="reset_name">Keçmişi sil</string>
+    <string name="root_mode_desc">Varsa super istifadǝçi xüsusiyyətlǝrini aç (proqram yuxu rejimi üçün)</string>
+    <string name="root_mode_error">Super istifadǝçi xüsusiyyǝtleri alınamadı.</string>
+    <string name="root_mode_name">Super istifadǝçi rejimi</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Axtarış"</string>
+    <string name="search_name">Google axtarışı</string>
+    <string name="settings_airplane">Təyyarə rejimi</string>
+    <string name="settings_applications">Proqramlar</string>
+    <string name="settings_battery">Batareya</string>
+    <string name="settings_connectivity">Bağlılıq</string>
+    <string name="settings_device_info">Cihaz məlumatı</string>
+    <string name="settings_name">Parametrlər</string>
+    <string name="settings_prefix">"Parametr: "</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme_name">Tema</string>
+    <string name="title_advanced">İnkişaflı Parametrlǝr</string>
+    <string name="title_history">Tarix</string>
+    <string name="title_providers">Neler Göstərilə</string>
+    <string name="title_ui">İstifadəçi İnterfeysi</string>
+    <string name="toast_hibernate_completed">%s yuxu rejimine alındı, oyandırmaq üçün yenidən açın.</string>
+    <string name="toast_hibernate_error">%s yuxu rejimine alınamadı.</string>
+    <string name="ui_empty_1">Bir şeyləri axtarmağa başlayın</string>
+    <string name="ui_empty_1_sub">Proqramlar, kontaktlar, parametrlər, …</string>
+    <string name="ui_empty_2">"Hər zaman keçmişi görün "</string>
+    <string name="ui_empty_2_sub">Sürətli erişim üçün</string>
+    <string name="ui_empty_3">Ən çox istifadə proqramlara sürətli giriş</string>
+    <string name="ui_empty_3_sub">KISS başladıcı vərdişlərinizə görə çalışır</string>
+    <string name="ui_item_contact_hint_call">Zəng et</string>
+    <string name="ui_item_contact_hint_message">Mesaj</string>
+    <string name="ui_item_phone">Zəng et: \"%s\"</string>
+    <string name="ui_item_search">%1$s Şunu axtar: \"%2$s\"</string>
+    <string name="ui_search_hint">Axtar: Proqramlar, kontaktlar, …</string>
+</resources>

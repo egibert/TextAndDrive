@@ -1,0 +1,20 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "myIoTHubMessage",
+      "direction": "in",
+      "path": "samples-workitems",
+      "connection": "TextAndDriveHub_events_IOTHUB",
+      "consumerGroup": "$Default"
+    },
+    {
+      "type": "queue",
+      "name": "outputQueueItem",
+      "queueName": "queue-python",
+      "connection": "textanddrivefun9304_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
