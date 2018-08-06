@@ -19,6 +19,6 @@ public static void Run(string myQueueItem, out object outputDocument, TraceWrite
 
     outputDocument = new {
         state = cleanState,
-        date = thisDay.ToString("D")),
+        date = thisDay.ToString("D"),
     };   
 }

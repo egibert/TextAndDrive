@@ -35,8 +35,9 @@ if os.path.isfile(image_path):
         top_k = predictions[0].argsort()[-len(predictions[0]):][::-1]
 
     words = image_path.split('_');
+    dev = words[0].split('\\');
 
-    data['deviceID'] = words[0]
+    data['deviceID'] = dev[2]
     data['state'] = words[1];
 
     for node_id in top_k:
