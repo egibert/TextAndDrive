@@ -5,5 +5,3 @@ car stick shift
 steering wheel
 dashboard
 seats
-left side mirror
-right side mirror

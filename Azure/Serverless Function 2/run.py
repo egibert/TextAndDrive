@@ -11,7 +11,6 @@ print("Path: " + image_path)
 data = {}
 
 if os.path.isfile(image_path):
-    dID = image_path.split("_")
     # Read in the image_data
     image_data = tf.gfile.FastGFile(image_path, 'rb').read()
 
@@ -35,14 +34,14 @@ if os.path.isfile(image_path):
         # Sort to show labels of first prediction in order of confidence
         top_k = predictions[0].argsort()[-len(predictions[0]):][::-1]
 
-    string[] words = image_path.Split('_');
+    words = image_path.split('_');
 
-    data['deviceID'] = dID
+    data['deviceID'] = words[0]
     data['state'] = words[1];
 
     for node_id in top_k:
         human_string = label_lines[node_id]
         score = predictions[0][node_id]
-        data[human_string] = score
+        data[human_string] = "%.5f" % score
 
 os.environ['outputQueueItem'] = json.dumps(data)

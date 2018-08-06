@@ -10,10 +10,10 @@
     {
       "type": "documentDB",
       "name": "outputDocument",
-      "databaseName": "outDatabase",
-      "collectionName": "MyCollection",
+      "databaseName": "mean-demo",
+      "collectionName": "states",
       "createIfNotExists": false,
-      "connection": "textanddrivedb_DOCUMENTDB",
+      "connection": "mean-demo_DOCUMENTDB",
       "direction": "out"
     }
   ],
